@@ -1,0 +1,29 @@
+{
+  "name": "serverless-plugin-lambda-test-events",
+  "version": "1.0.0",
+  "description": "Adds console test events to your AWS Lambda functions.",
+  "main": "serverless-plugin-lambda-test-events.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n-schilling/serverless-plugin-lambda-test-events.git"
+  },
+  "keywords": [
+    "serverless",
+    "plugin",
+    "lambda",
+    "aws",
+    "test"
+  ],
+  "author": "Nico Schilling <mail@nschilling.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n-schilling/serverless-plugin-lambda-test-events/issues"
+  },
+  "homepage": "https://github.com/n-schilling/serverless-plugin-lambda-test-events#readme",
+  "peerDependencies": {
+    "serverless": "^3.25.1 || 3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
